@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JaylynFonseca
+- 👋 Hi, I’m Jaylyn Fonseca
 - 👀 I’m interested in learning AWS in several different areas and specialites
 - 🌱 I’m currently learning AWS cloud
 - 💞️ I’m looking to collaborate on learning,study groups, and job prep
